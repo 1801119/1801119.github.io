@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+input[type="button"] {
+    width: 300px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: solid 1px #ff0000;
+}
